@@ -2,9 +2,11 @@
 
 # ⚡ SMIT PATEL
 
-### `ICT Engineer • Data Analyst by Passion`
+### `Final-Year ICT Engineer | Data Analytics & Business Intelligence Enthusiast`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=940&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Statistics;End-to-End+Product+Analytics+Builder;GA4+%7C+PostgreSQL+%7C+Predictive+Modeling;Code.+Connect.+Analyze." alt="Typing SVG" />
+**Building decision-ready analytics solutions using Python, SQL, PostgreSQL & Power BI**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=940&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Statistics;End-to-End+Product+Analytics+Builder;GA4+%7C+PostgreSQL+%7C+Predictive+Modeling;Code.+Connect.+Analyze." alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +20,7 @@
 
 <br/><br/>
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SMIT%20PATEL&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20AI&descAlignY=55&descSize=16)
 
 </div>
 
@@ -32,61 +34,130 @@ role:         Final-Year ICT (Information & Communication Technology) Engineerin
 university:   Adani University
 focus:        Data Analytics, Business Intelligence & AI
 languages:    English, Gujarati, Hindi
-currently:    Building end-to-end analytics portfolios | Sharpening SQL + statistics
 open_to:      Data Analyst / Business Analyst / Product Analytics roles
 ```
 
 ICT gave me the foundation — networks, systems, software, and the way data actually
 moves underneath every application. I chose to specialize that foundation toward
 **data analytics**: turning raw signals into dashboards, models, and decisions that
-actually get used. No vanity metrics, no dashboards without a decision behind them.
+actually get used.
+
+> 💡 **Fun fact:** I enjoy turning messy datasets into meaningful business insights —
+> the messier the data, the more satisfying the clean pivot table at the end.
 
 ---
 
-## 🏗️ `02` — Flagship Project
+## 🎯 `02` — Career Objective
+
+Seeking opportunities as a **Data Analyst**, **Business Analyst**, or **Product Analyst**
+where I can apply data analytics, SQL, Python, and visualization skills to solve real
+business problems.
+
+---
+
+## 🚀 `03` — Currently Working On
+
+- 📊 Product Analytics Platform (GA4 E-Commerce Dataset)
+- 📉 Customer Churn Prediction Model
+- 📈 Power BI Executive Dashboard
+- 🗄️ SQL Analytics Repository
+- 🤖 Machine Learning Portfolio
+
+---
+
+## 🏗️ `04` — Flagship Project
 
 ### 📊 End-to-End Product Analytics — GA4 E-Commerce Dataset
 
 A full-stack analytics build on the **GA4 Obfuscated Sample E-Commerce Dataset**, taken from
 raw event logs to a decision-ready report.
 
+**Architecture**
+
 ```
-┌─────────────┐   ┌──────────────┐   ┌───────────────┐   ┌────────────────────┐
-│  Raw GA4    │ → │   Python     │ → │  PostgreSQL   │ → │   Power BI +       │
-│  Event Data │   │  Cleaning &  │   │  SQL Analysis │   │   Statistical /    │
-│             │   │  Wrangling   │   │  (Funnels,    │   │   Predictive       │
-│             │   │  (Pandas)    │   │   Cohorts)    │   │   Modeling         │
-└─────────────┘   └──────────────┘   └───────────────┘   └────────────────────┘
+   GA4 Events
+       │
+       ▼
+Python (Cleaning & Wrangling)
+       │
+       ▼
+   PostgreSQL
+       │
+       ▼
+  SQL Analytics
+       │
+       ▼
+ Power BI Dashboard
+       │
+       ▼
+ Business Insights
 ```
 
-**What it covers:**
-- 🧹 Data cleaning & schema normalization in Python
-- 🗄️ Advanced SQL analysis in PostgreSQL — funnels, retention, revenue cohorts
-- 📈 Interactive Power BI dashboards for stakeholder-ready storytelling
-- 🔮 Statistical testing and predictive modeling on user behavior
-- 📄 Packaged into a professional, formatted analytics report
+**Measurable Outcomes:**
+- ✅ Built a conversion funnel analysis to identify drop-off points
+- ✅ Designed KPI dashboards for stakeholder-ready reporting
+- ✅ Performed cohort & retention analysis on user behavior
+- ✅ Built predictive/statistical models on engagement data
+- ✅ Automated data cleaning and schema normalization in Python
+- ✅ Packaged the full analysis into a professional, formatted report
 
 > This project is the centerpiece of my portfolio — a demonstration that I can take a
 > dataset from zero to a boardroom-ready narrative.
 
+*Screenshots (Power BI dashboard, SQL query output, folder structure) coming soon.*
+
 ---
 
-## 🧰 `03` — Tech Arsenal
+## 💼 `05` — Core Competencies
+
+✔ Data Cleaning &nbsp;&nbsp; ✔ Exploratory Data Analysis &nbsp;&nbsp; ✔ Statistical Testing
+✔ SQL Analytics &nbsp;&nbsp; ✔ Dashboard Development &nbsp;&nbsp; ✔ KPI Design
+✔ Predictive Modeling &nbsp;&nbsp; ✔ Business Reporting
+
+---
+
+## 🛠️ `06` — What I Build
+
+| | |
+|---|---|
+| 📊 Executive Dashboards | 📈 Product Analytics |
+| 📉 Customer Churn Models | 🧠 Machine Learning Pipelines |
+| ⚙️ ETL Workflows | 🗄️ SQL Analytics |
+| 📑 Automated Reports | |
+
+---
+
+## 🧰 `07` — Tech Stack
+
+**Programming**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark"/>
 </p>
 
-**Data & Analytics**
+**Analytics & Data**
 
 <p align="center">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Visualization**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Database**
+
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 **ICT & Systems**
@@ -97,18 +168,20 @@ raw event logs to a decision-ready report.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-**Tools**
+**Version Control**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi&theme=dark"/>
 </p>
+
+**⭐ Featured Technologies:** `Python` · `SQL` · `Power BI` · `PostgreSQL` · `Pandas` · `NumPy` · `Machine Learning`
 
 ---
 
-## 📊 `04` — GitHub Analytics
+## 📊 `08` — GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smitpatel63&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smitpatel63&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitpatel63&layout=compact&theme=tokyonight&border_radius=10&hide_border=true"/>
 </p>
 
@@ -126,7 +199,19 @@ raw event logs to a decision-ready report.
 
 ---
 
-## 📂 `05` — Featured Repositories
+## 📂 `09` — Featured Repositories
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=smitpatel63&repo=ga4-ecommerce-product-analytics&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=smitpatel63&repo=customer-churn-prediction&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=smitpatel63&repo=stroke-prediction-analysis&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=smitpatel63&repo=sales-dashboard-powerbi&theme=tokyonight"/>
+</p>
+
+> ⚠️ Replace the `repo=` values above with your actual GitHub repository names —
+> pin cards only render for repos that exist on your profile.
 
 | Project | Description | Stack |
 |---|---|---|
@@ -138,31 +223,53 @@ raw event logs to a decision-ready report.
 
 ---
 
-## 🎓 `06` — Certifications & Continuous Learning
+## 🎓 `10` — Certifications
 
-Actively upskilling through **Infosys Springboard / Techademy**, alongside targeted
-credentials from Great Learning Academy.
+| Certification | Issuer |
+|---|---|
+| SQL | Infosys Springboard |
+| Python | Great Learning Academy |
+| Data Analytics | Techademy |
+| Power BI | Microsoft Learn |
+| Microsoft Excel | Microsoft Learn |
+| AI & ChatGPT | Great Learning Academy |
 
-`Microsoft Excel` · `Power BI` · `SQL` · `Python` · `Data Analytics` · `AI & ChatGPT`
+*(Update issuers/links to match your actual certificates before publishing.)*
 
-**Learning Roadmap**
+---
+
+## 📅 `11` — Learning Timeline — 2026
 
 ```
-[██████████] Python
-[██████████] SQL Fundamentals
-[██████████] Power BI Basics
-[███████░░░] Statistics & Predictive Modeling
-[█████░░░░░] Machine Learning
-[███░░░░░░░] Data Engineering
-[██░░░░░░░░] Generative AI
+✅ Python
+✅ SQL
+✅ Power BI
+🔄 Statistics & Predictive Modeling
+🔄 Machine Learning
+🔄 Data Engineering
+🔄 Cloud Analytics
+🔄 Generative AI
 ```
 
 ---
 
-## 🌐 `07` — Let's Connect
+## 🤝 `12` — Open to Collaborate On
+
+- 📊 Data Analytics Projects
+- 📈 Power BI Dashboards
+- 🗄️ SQL Optimization
+- 🤖 Machine Learning
+- 🌐 Open Source
+
+---
+
+## 📬 `13` — Contact
 
 <div align="center">
 
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/smit-patel-8290a7288/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -170,9 +277,14 @@ credentials from Great Learning Academy.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+*(Replace the email badge link with your real address if you want it public.)*
+
 <br/><br/>
 
 > *"Turn data into decisions, and decisions into impact."*
+
+Thanks for visiting my profile. If you'd like to collaborate on analytics,
+business intelligence, or AI projects, let's connect.
 
 ⭐ **If this profile resonates, a follow keeps the momentum going.**
 
