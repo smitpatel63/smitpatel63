@@ -2,9 +2,9 @@
 
 # ⚡ SMIT PATEL
 
-### `Civil Engineer by Degree • Data Analyst by Design`
+### `ICT Engineer • Data Analyst by Passion`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=940&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Statistics;End-to-End+Product+Analytics+Builder;GA4+%7C+PostgreSQL+%7C+Predictive+Modeling;Engineer's+Rigor.+Analyst's+Instinct." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=940&lines=Turning+Raw+Data+Into+Real+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Statistics;End-to-End+Product+Analytics+Builder;GA4+%7C+PostgreSQL+%7C+Predictive+Modeling;Code.+Connect.+Analyze." alt="Typing SVG" />
 
 <br/>
 
@@ -28,19 +28,18 @@
 
 ```yaml
 name:         Smit Patel
-role:         Final-Year Civil Engineering Student, L.D. College of Engineering (GTU)
-pivot:        Civil Engineering → Data Analytics & Business Intelligence
-mission:      "Bring structural-engineering discipline to messy, real-world data."
+role:         Final-Year ICT (Information & Communication Technology) Engineering Student
+university:   Adani University
+focus:        Data Analytics, Business Intelligence & AI
 languages:    English, Gujarati, Hindi
 currently:    Building end-to-end analytics portfolios | Sharpening SQL + statistics
 open_to:      Data Analyst / Business Analyst / Product Analytics roles
 ```
 
-I didn't start in data. I started on construction sites and in structural design labs —
-work on **sustainable temple construction**, **RCA strength enhancement using waste plastic**,
-and disaster-response training at **GIDM Gandhinagar** taught me how to work with constraints,
-tolerances, and load-bearing truths. I bring that same rigor to data: no vanity metrics,
-no dashboards without a decision behind them.
+ICT gave me the foundation — networks, systems, software, and the way data actually
+moves underneath every application. I chose to specialize that foundation toward
+**data analytics**: turning raw signals into dashboards, models, and decisions that
+actually get used. No vanity metrics, no dashboards without a decision behind them.
 
 ---
 
@@ -87,10 +86,18 @@ raw event logs to a decision-ready report.
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statistics-8A2BE2?style=for-the-badge&logoColor=white"/>
 </p>
 
-**Engineering & Tools**
+**ICT & Systems**
+
+<p align="center">
+<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Fundamentals-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+**Tools**
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,fastapi&theme=dark"/>
