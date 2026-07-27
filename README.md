@@ -1,210 +1,126 @@
-<!-- ========================================= -->
-<!--              PROFILE HEADER              -->
-<!-- ========================================= -->
 
-<h1 align="center">Hi 👋, I'm Smit Patel</h1>
-<h3 align="center">ICT Student | Data Analytics Enthusiast | Python Developer | AI Learner</h3>
+# Hi 👋, I'm Smit Patel
+
+<h3 align="center">ICT Student • Data Analytics Enthusiast • Python Developer • AI Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Machine+Learning;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Always+Learning+Something+New!" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smitpatel63&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/smitpatel63">
+    <img src="https://komarev.com/ghpvc/?username=smitpatel63&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/smitpatel63?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/smitpatel63?style=for-the-badge">
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 ICT Student passionate about solving business problems using data.
-
-📊 Interested in Data Analytics, Business Intelligence, Machine Learning, and AI.
-
-💡 Currently improving my skills in:
-
-- Python
-- SQL
-- Power BI
-- Statistics
-- Machine Learning
-- Data Visualization
-
-🚀 Goal:
-Become a Data Analyst / Business Analyst and contribute to impactful, data-driven projects.
+- 🎓 ICT Student passionate about Data Analytics and AI.
+- 📊 Interested in Business Intelligence, Machine Learning and Data Visualization.
+- 💻 Building projects using Python, SQL, PostgreSQL, FastAPI and Power BI.
+- 🌱 Currently learning Advanced SQL, Statistics, Power BI, ML and Data Engineering.
+- 🎯 Goal: Become a world-class Data Analyst / AI Engineer.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
-
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css"/>
 </p>
 
-## 📊 Data Analytics
-
+### Data Analytics
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 </p>
 
-## 🗄 Database
-
+### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-</p>
-
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,fastapi" />
-</p>
-
-## ⚙ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,fastapi"/>
 </p>
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smitpatel63&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitpatel63&layout=compact&theme=tokyonight"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=smitpatel63&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitpatel63&layout=compact&theme=tokyonight"/>
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitpatel63&theme=tokyonight"/>
-
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=smitpatel63&theme=tokyo-night"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=smitpatel63&theme=algolia&row=2&column=4"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📂 Featured Projects
 
-### 📌 Stroke Prediction Analysis
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Statistical Analysis
-- Data Visualization
-- Machine Learning
-
----
-
-### 📌 Customer Churn Prediction
-
-- Python
-- SQL
-- Power BI
-- Machine Learning
-- Business Insights
+| Project | Description | Tech |
+|---------|-------------|------|
+| Stroke Prediction Analysis | EDA, statistics and ML | Python, Pandas |
+| Customer Churn Prediction | Predict customer churn | Python, SQL |
+| Sales Dashboard | Executive BI dashboard | Power BI |
+| Event Recommendation System | REST API project | FastAPI, PostgreSQL |
 
 ---
 
-### 📌 Sales Dashboard
+# 🎓 Certifications
 
-- Power BI
-- Interactive Dashboard
-- KPI Analysis
-- Business Reporting
-
----
-
-### 📌 Event Recommendation System
-
-- FastAPI
-- PostgreSQL
-- Streamlit
-- REST API
-- Python
-
----
-
-# 📚 Currently Learning
-
-- Advanced SQL
-- Power BI
-- Machine Learning
-- Statistics
-- Deep Learning
-- Generative AI
-- Data Engineering
-
----
-
-# 🏆 Certifications
-
-- Power BI
-- Python
-- SQL
 - Microsoft Excel
-- AI Tools
+- Power BI
+- SQL
+- Python
+- AI & ChatGPT
 - Data Analytics
 
 ---
 
-# 📫 Connect With Me
+# 📚 Learning Roadmap
 
-<p>
+- ✅ Python
+- ✅ SQL Fundamentals
+- ✅ Power BI Basics
+- 🔄 Statistics
+- 🔄 Machine Learning
+- 🔄 Deep Learning
+- 🔄 Data Engineering
+- 🔄 Generative AI
 
-<a href="https://www.linkedin.com/in/smit-patel-8290a7288/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+---
 
-<a href="https://github.com/smitpatel63">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
+# 🌐 Connect With Me
 
-<a href="mailto:your_email@example.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/smit-patel-8290a7288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/smitpatel63"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
-# 💻 Coding Profiles
+# 💡 Quote
 
-- 💻 GitHub: https://github.com/smitpatel63
-- 🔗 LinkedIn: https://www.linkedin.com/in/smit-patel-8290a7288/
-
----
-
-# 💬 Quote
-
-> **"Data is the new oil, but insights are the real fuel."**
+> **"Turn data into decisions, and decisions into impact."**
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+⭐ If you like my work, consider following my GitHub profile!
 </p>
