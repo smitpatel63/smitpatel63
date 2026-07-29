@@ -20,6 +20,7 @@
 </a>
 <a href="[![LeetCode](https://shields.io)](https://leetcode.com/u/Smit_patel63)">
 </a>
+[![LeetCode](https://shields.io)](https://leetcode.com/u/Smit_patel63)
 
 
 <br/><br/>
