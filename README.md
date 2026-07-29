@@ -18,10 +18,9 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=smitpatel63&label=Profile%20Views&color=0D9488&style=for-the-badge" />
 </a>
-<a href="https://leetcode.com/u/Smit_patel63/" target="_blank">
-  <img src="https://shields.io" alt="LeetCode">
+<a href="https://leetcode.com/u/Smit_patel63/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
 </a>
-
 
 <br/><br/>
 
