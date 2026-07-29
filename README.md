@@ -16,11 +16,12 @@
 <a href="https://github.com/smitpatel63">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=smitpatel63&label=Profile%20Views&color=0D9488&style=for-the-badge" />
-</a>
 <a href="https://leetcode.com/u/Smit_patel63/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
 </a>
+<img src="https://komarev.com/ghpvc/?username=smitpatel63&label=Profile%20Views&color=0D9488&style=for-the-badge" />
+</a>
+
 
 <br/><br/>
 
